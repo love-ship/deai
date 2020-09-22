@@ -1,0 +1,68 @@
+.ui.segment, .ui.segments .segment {
+  font-size: 1.2rem;
+}
+
+.markdown-body {
+  color: #444;
+}
+
+p {
+  line-height: 1.75em;
+  color: #666;
+}
+
+.link-color {
+  color: #ff8061;
+}
+
+#TableOfContents {
+  border: dashed 1px #ff8061;
+  padding: 15px 0px;
+}
+
+#TableOfContents .fa {
+  display: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.markdown-body table .border-none {
+  border: none;
+}
+
+.markdown-body table td, .markdown-body table th {
+  padding: 10px 20px;
+}
+
+.markdown-body table th:not(:first-of-type) {
+  background-color: #ff8061;
+  color: #fff;
+  font-weight: 500;
+}
+
+.markdown-body table td.black {
+  background-color: #666;
+  color: #fff;
+}
+
+.markdown-body .summary {
+  border: dashed 1px #ff8061;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.markdown-body ul, .markdown-body ol {
+  list-style-position: inside;
+}
+
+.markdown-body h2 {
+  border-bottom: 1px solid #ff8061;
+}
+
+.markdown-body h3 {
+  padding: 5px 0 5px 8px;
+  border-left: 4px solid;
+  border-color: #ff8061;
+}
