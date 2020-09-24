@@ -14,17 +14,19 @@ toc: true
 ## パパ活とは？
 <img src="/img/about-papakatsu2.jpg" /><br>
 <br>
-パパ活とは、<b>女性が男性と食事やデートをする代わりに金銭を受け取ること</b>です。<br>
+パパ活とは、<b class="marker_yellow">女性が男性と食事やデートをする代わりに金銭を受け取ること</b>です。<br>
 肉体関係があるかどうか、本格的な出会いに発展するかは２人次第です。<br>
 
 ### 売春との違いは？
 売春は「売春防止法2条」で禁止されている違法行為です。<br>
-売春防止法で禁止されている売春は<b>「対償を受け、又は受ける約束で、不特定の相手方と性交すること」</b>です。<br>
-よって<b>特定の「パパ」のみからお金を受け取るパパ活自体は犯罪にはなりません</b>（18歳未満のパパ活は違法になるので気をつけましょう）。<br>
+売春防止法で禁止されている売春は<b class="marker_yellow">「対償を受け、又は受ける約束で、不特定の相手方と性交すること」</b>です。<br>
+よって<b class="marker_yellow">特定の「パパ」のみからお金を受け取るパパ活自体は犯罪にはなりません</b>（18歳未満のパパ活は違法になるので気をつけましょう）。<br>
 <br>
 
 ## パパ活用語集
 パパ活で使われる用語を網羅的に解説します。こちらを見ておけばやり取りで困ることはないので、しっかりと抑えておきましょう。<br>
+
+### 呼び方編
 #### <i class="fa fa-square link-color"></i> パパ活（ぱぱかつ）
 意味は上で説明した通りです。<br>
 <b>「P活」</b>や男性と女声の年齢が近い場合に<b>「兄活」</b>と呼んだりします。
@@ -56,6 +58,8 @@ toc: true
 女性にガチで恋をしてしまうパパのことです。ストーカー化する可能性もあるので、要注意です。
 #### <i class="fa fa-square link-color"></i> ラブパパ
 肉体関係のあるパパのことです。
+
+### やり取り編
 #### <i class="fa fa-square link-color"></i> 顔合わせ
 新規パパと初めて会うことです。<br>
 お互いの印象を確認してこれからの関係を決めます。<br>
@@ -159,3 +163,49 @@ toc: true
     女性の数が多い <a>paters（ペイターズ）</a>
   </li>
 </ol>
+<br>
+
+### SugarDaddy（シュガーダディ）
+<img width="200px" src="/img/sugardaddy_logo.png" />
+
+王道のパパ活サービスで、会員数が多いのが特徴です。<br>
+出張検索を使って出張に合わせて出先で女の子と会うこともできます。<br>
+<b class="marker_yellow">登録に必要なのはメアドだけ</b>で<b class="marker_yellow">メッセージのやり取り以外はお金がかからない</b>ので、軽い気持ちで覗いてみるのもありです。<br>
+
+<div class="btn-wrap">
+  <a href="https://sugardaddy.jp/" target="_blank" rel="nofollow" class="btn btn-c"><span>詳しくはコチラ！</span><br>SugarDaddy公式サイト</a>
+</div>
+
+<br>
+
+### paddy67（パディロクナナ）
+<img width="90px" src="/img/paddy67_logo.png" />
+
+<b class="marker_yellow">9割の女性が24歳以下で若い女子大生やモデルが多数登録しています</b>。<br>
+登録したら比較的いいねも付きやすい傾向にあります。<br>
+<b class="marker_yellow">メアドと電話番号で無料登録することができ、メッセージも1通までは無料で使うことができます</b>。<br>
+
+<div class="btn-wrap">
+  <a href="https://www.paddy67.today/" target="_blank" rel="nofollow" class="btn btn-c"><span>詳しくはコチラ！</span><br>paddy67公式サイト</a>
+</div>
+
+<br>
+
+### paters（ペイターズ）
+<img width="200px" src="/img/paters_logo.png" />
+
+パパ活を求める女性に対して男性が不足しがちです。<br>
+一般的な出会い系に比べて高額であるため、財力に自信がある男性は、<b class="marker_yellow">熾烈なバトルを勝ち上がってきた魅力的な女性とデートができる</b>のでおすすめです。<br>
+<b class="marker_yellow">電話番号またはFacebookアカウントで無料登録できます</b>。<br>
+
+<div class="btn-wrap">
+  <a href="https://paters.jp/" target="_blank" rel="nofollow" class="btn btn-c"><span>詳しくはコチラ！</span><br>paters公式サイト</a>
+</div>
+
+<br>
+<br>
+
+以上、初心者におすすめのパパ活サービス3選を紹介させていただきました。<br>
+たまにSNSでマッチングしようとしている人もいますが、<b class="marker_yellow">上記で紹介させていただいたサービスを使うことで、運営会社の監視の元安全に出会うことができます</b>。<br>
+パパ活アプリで幸せな関係性を築ける女性を見つけてくださいね！<br>
+<br>

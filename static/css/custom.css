@@ -1,3 +1,7 @@
+.ui.card.dream-card .content .description {
+  color: #666;
+}
+
 .ui.segment, .ui.segments .segment {
   font-size: 1.2rem;
 }
@@ -65,4 +69,115 @@ p {
   padding: 5px 0 5px 8px;
   border-left: 4px solid;
   border-color: #ff8061;
+}
+
+/* marker */
+.marker_yellow {
+  display: inline;
+  background-position: left -100% center;
+  background-repeat: repeat-x;
+  background-image: linear-gradient(to right,rgba(255,255,255,0) 50%,#ff6 50%);
+  background-size: 200% .6em;
+  padding-bottom: .6em;
+}
+
+/* button */
+.btn,
+a.btn,
+button.btn {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  position: relative;
+  display: inline-block;
+  padding: 1rem 4rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  color: #212529;
+  border-radius: 0.5rem;
+}
+
+.btn-wrap {
+  margin: 30px 0;
+}
+
+a.btn-c {
+  font-size: 2.0rem;
+
+  position: relative;
+
+  padding: 0.25rem 2rem 1.5rem 3.5rem;
+
+  color: #fff !important;
+  background: #e94919;
+  -webkit-box-shadow: 0 5px 0 #d44114;
+  box-shadow: 0 5px 0 #d44114;
+}
+
+a.btn-c span {
+  font-size: 1.5rem;
+
+  position: absolute;
+  top: -1.25rem;
+  left: calc(50% - 150px);
+
+  display: block;
+
+  width: 300px;
+  padding: 0.2rem 0;
+
+  color: #d44114;
+  border: 2px solid #d44114;
+  border-radius: 100vh;
+  background: #fff;
+  -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+a.btn-c span:before,
+a.btn-c span:after {
+  position: absolute;
+  left: calc(50% - 10px);
+
+  content: "";
+}
+
+a.btn-c span:before {
+  bottom: -10px;
+
+  border-width: 10px 10px 0 10px;
+  border-style: solid;
+  border-color: #d44114 transparent transparent transparent;
+}
+
+a.btn-c span:after {
+  bottom: -7px;
+
+  border-width: 10px 10px 0 10px;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
+}
+
+a.btn-c i {
+  margin-right: 1rem;
+}
+
+a.btn-c:hover {
+  -webkit-transform: translate(0, 3px);
+  transform: translate(0, 3px);
+  text-decoration: none;
+
+  color: #fff;
+  background: #eb5b30;
+  -webkit-box-shadow: 0 2px 0 #d44114;
+  box-shadow: 0 2px 0 #d44114;
 }

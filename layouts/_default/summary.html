@@ -35,14 +35,22 @@
       </p>
     </div>
     <div class="description">
-      {{ .Summary | safeHTML }}
+      {{ if isset .Params "description" }}
+        {{ .Params.description }}
+      {{ else }}
+        {{ .Summary | safeHTML }}
+      {{ end }}
     </div>
   </div>
 
   <div class="extra content">
     <a>
       <i class="clock icon"></i>
-      {{ .ReadingTime }}{{ i18n "minuteRead" }}
+      {{ if isset .Params "readingtime" }}
+        · {{ .Params.readingtime }}{{ i18n "minuteRead" }}
+      {{ else }}
+        · {{ .ReadingTime }}{{ i18n "minuteRead" }}
+      {{ end }}
     </a>
   </div>
 </article>
