@@ -1,3 +1,14 @@
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  *zoom: 1;
+}
+
 .ui.card.dream-card .content .description {
   color: #666;
 }
@@ -26,6 +37,12 @@ p {
 
 #TableOfContents .fa {
   display: none;
+}
+
+@media (max-width: 767px) {
+  #TableOfContents {
+    font-size: 1rem;
+  }
 }
 
 .text-center {
@@ -59,6 +76,12 @@ p {
 
 .markdown-body ul, .markdown-body ol {
   list-style-position: inside;
+}
+
+@media (max-width: 767px) {
+  .markdown-body ol, .markdown-body ul {
+    padding-left: 0.75em;
+  }
 }
 
 .markdown-body h2 {
@@ -180,4 +203,48 @@ a.btn-c:hover {
   background: #eb5b30;
   -webkit-box-shadow: 0 2px 0 #d44114;
   box-shadow: 0 2px 0 #d44114;
+}
+
+@media (max-width: 767px) {
+  a.btn-c {
+    font-size: 1.4rem;
+    padding: 0.2rem 1.5rem 1.3rem 2rem;
+  }
+  a.btn-c span {
+    font-size: 1.0rem;
+    width: 150px;
+    left: calc(50% - 75px);
+  }
+}
+
+.step {
+  float: left;
+}
+
+.flow .step {
+  width: 200px;
+}
+
+.flow .step:not(:last-child) {
+  margin-right: 10px;
+}
+
+.flow .step p {
+  font-size: 1.0rem;
+}
+
+@media (max-width: 767px) {
+  .flow .step {
+    float: none;
+    width: 100%;
+    margin-right: 0px;
+  }
+}
+
+.pre {
+  background-color: #fafafa;
+  border-color: #f0f0f0;
+  padding: 10px;
+  color: #333;
+  font-size: 14px;
 }

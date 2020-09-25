@@ -2,7 +2,6 @@
 title: "パパ活とは？パパ活で使われる用語を徹底解説"
 description: "「パパ活の用語がわからず、気後れしてしまう」「用語の意味がさっぱりわからない」「やる前に用語の意味を網羅的に知りたい」という方に向けて、パパ活の意味から、実際に使われている用語、パパ活の相場まで徹底解説します。"
 cover: '/img/about-papakatsu3.jpg'
-thumbnail: '/img/about-papakatsu.jpg'
 date: 2020-09-13T10:00:00+09:00
 readingtime: 5
 slug: about-papakatsu
