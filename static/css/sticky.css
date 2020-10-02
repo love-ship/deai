@@ -44,3 +44,15 @@
   height: 36px;
   margin-right: 8px;
 }
+
+.sticky-area.paddy67 a {
+  background: #61bcd7;
+  color: #fff !important;
+  border: 3px solid #299ace;
+}
+
+.sticky-area.paddy67 a img {
+  width: 32px;
+  height: auto;
+  margin-top: -1px;
+}
