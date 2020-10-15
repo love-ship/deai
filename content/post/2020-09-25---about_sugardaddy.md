@@ -20,7 +20,7 @@ SugarDaddy（シュガーダディ）は、<b class="marker_yellow">パパ活用
 <br>
 
 ### 登録の流れ
-登録は<a href="https://sugardaddy.jp/" target="_blank" rel="nofollow">公式サイト</a>にアクセスして、以下の3ステップで完了です（ここまでは無料）。<br>
+登録は<a href="https://af.sugardaddy.jp/a?af_id=16026681045796&s_id=639" target="_blank" rel="nofollow">公式サイト</a>にアクセスして、以下の3ステップで完了です（ここまでは無料）。<br>
 <ol class="summary">
   <li>メールアドレス登録</li>
   <li>ユーザー情報登録</li>
@@ -178,7 +178,7 @@ SugarDaddy（シュガーダディ）は、<b class="marker_yellow">パパ活用
 <br>
 
 <div class="sticky-area sugardaddy">
-  <a href="https://sugardaddy.jp/" target="_blank" rel="nofollow">
+  <a href="https://af.sugardaddy.jp/a?af_id=16026681045796&s_id=639" target="_blank" rel="nofollow">
     <img src='/img/sugardaddy_logo.png' alt='sugardaddy logo' />
     公式サイト
   </a>
