@@ -6,7 +6,7 @@ date: 2020-09-13T10:00:00+09:00
 readingtime: 5
 slug: about-papakatsu
 draft: false
-tags: [ "パパ活" ]
+tags: [ "マッチングサービス" ]
 toc: true
 ---
 
